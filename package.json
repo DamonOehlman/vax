@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/DamonOehlman/vax",
   "dependencies": {
+    "error": "^5.0.0",
     "joi": "^5.1.0"
   }
 }
